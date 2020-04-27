@@ -115,7 +115,7 @@
         android:layout_width="390px"
         android:layout_height="200dp"
         android:layout_marginStart="22dp"
-        android:text="правила просты ты должен нажимать  кнопку пока не отрывешься на несколько очков от соперника"
+        android:text="правила просты ты должен нажимать  кнопку,чтобы выиграть, 1 игрок должен дойти до нуля а второй до 100 сответственно "
   android:textAllCaps="true"
 
 
